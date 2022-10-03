@@ -8,9 +8,8 @@ from github import Github
 from feedgen.feed import FeedGenerator
 from lxml.etree import CDATA
 
-MD_HEAD = """## Gitblog
-My personal blog using issues and GitHub Actions    
-[RSS Feed](https://raw.githubusercontent.com/{repo_name}/main/feed.xml)   
+MD_HEAD = """**<p align="center">[ocmster's Blog]</p>**
+**<p align="center">用于记录一些个人认知及学习路上的思考~</p>**
 """
 
 BACKUP_DIR = "BACKUP"
