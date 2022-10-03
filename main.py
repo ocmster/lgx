@@ -12,15 +12,6 @@ MD_HEAD = """**<p align="center">[ocmster's Blog]</p>**
 **<p align="center">用于记录一些个人认知及学习路上的思考~</p>**
 """
 
-BACKUP_DIR = "BACKUP"
-ANCHOR_NUMBER = 5
-TOP_ISSUES_LABELS = ["Top"]
-TODO_ISSUES_LABELS = ["TODO"]
-FRIENDS_LABELS = ["Friends"]
-IGNORE_LABELS = FRIENDS_LABELS + TOP_ISSUES_LABELS + TODO_ISSUES_LABELS
-
-
-
 def get_me(user):
     return user.get_user().login
 
