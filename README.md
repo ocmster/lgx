@@ -4,7 +4,9 @@
 | Name | Link | Desc | 
  | ---- | ---- | ---- |
 ## 最近更新
+- [埃隆马斯克五步工作法](https://github.com/ocmster/lgx/issues/7)--2022-10-10
 - [把时间放在重要的事上。](https://github.com/ocmster/lgx/issues/6)--2022-10-03
 - [亚文化](https://github.com/ocmster/lgx/issues/5)--2022-10-03
 ## 认知提升
+- [埃隆马斯克五步工作法](https://github.com/ocmster/lgx/issues/7)--2022-10-10
 - [把时间放在重要的事上。](https://github.com/ocmster/lgx/issues/6)--2022-10-03
